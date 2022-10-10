@@ -1,0 +1,24 @@
+{
+  "name": "tiendaderopa",
+  "version": "1.0.0",
+  "description": "Pruebas con cypress de tienda de ropa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castrolq88/tiendaDeRopaCypress.git"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "cypress"
+  ],
+  "author": "Liber Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castrolq88/tiendaDeRopaCypress/issues"
+  },
+  "homepage": "https://github.com/castrolq88/tiendaDeRopaCypress#readme"
+}
