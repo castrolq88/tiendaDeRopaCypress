@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/castrolq88/tiendaDeRopaCypress/issues"
   },
-  "homepage": "https://github.com/castrolq88/tiendaDeRopaCypress#readme"
+  "homepage": "https://github.com/castrolq88/tiendaDeRopaCypress#readme",
+  "dependencies": {
+    "cypress": "^10.9.0"
+  }
 }
